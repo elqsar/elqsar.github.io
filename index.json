@@ -1,0 +1,97 @@
+{
+    "bio": {
+        "fullName": "Boris Musatov",
+        "email": "boris.musatov@gmail.com",
+        "location": "Prague, Czech Republic",
+        "social": {
+            "linkedin": "https://www.linkedin.com/in/boris-musatov-75216332/",
+            "github": "https://github.com/elqsar"
+        }
+    },
+    "experience": [
+        {
+            "name": "BSC Prague, s.r.o.",
+            "location": "Prague, Czech Republic",
+            "position": "Java Developer",
+            "startDate": "05/2011",
+            "endDate": "10/2014",
+            "projects": [
+                {
+                    "name": "TBC Bank, Georgia",
+                    "web": "https://www.tbcbank.ge/web/en/web/guest/personal-banking",
+                    "responsibilities": [
+                        "User interface creation.", "Backend development - API and core"
+                    ],
+                    "technologies": [
+                        "Spring", "JSP", "JQuery", "CSS", "Liferay 6", "Oracle Database"
+                    ]
+                },
+                {
+                    "name": "BCS Financial Group",
+                    "web": "https://bcs-bank.com/",
+                    "responsibilities": [
+                        "Android aplication development", "API development"
+                    ],
+                    "technologies": [
+                        "Android", "Spring"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "CN Group CZ, s.r.o",
+            "location": "Prague, Czech Republic",
+            "position": "Senior Developer / Team Lead",
+            "startDate": "10/2014",
+            "endDate": "now",
+            "projects": [
+                {
+                    "name": "Gorkana",
+                    "web": "https://www.gorkana.com/",
+                    "responsibilities": [
+                        "Frontend SPA development",
+                        "API development"
+                    ],
+                    "technologies": [
+                        "AngularJS", "CSS", "Spring", "RabbitMQ", "Redis"
+                    ]
+                },
+                {
+                    "name": "Cision",
+                    "web": "https://www.cision.com/us/",
+                    "responsibilities": [
+                        "Database synchronization pipeline development"
+                    ],
+                    "technologies": [
+                        "Akka", "RabbitMQ"
+                    ]
+                },
+                {
+                    "name": "Bunte",
+                    "web": "https://www.bunte.de/",
+                    "responsibilities": [
+                        "Frontend SPA development",
+                        "API development",
+                        "Mobile application development",
+                        "Team Lead"
+                    ],
+                    "technologies": [
+                        "Vue", "Tailwind", "React", "Redux", "React Native", "Node.js", "Grails 3", "Redis", "RDS"
+                    ]
+                },
+                {
+                    "name": "Unknown",
+                    "web": "Unknown",
+                    "responsibilities": [
+                        "Frontend SPA development",
+                        "API development",
+                        "Team Lead"
+                    ],
+                    "technologies": [
+                        "React", "SCSS", "Node.js", "GraphQL", "AWS Lambda", "Serverless", "AWS Elasticsearch"
+                    ]
+                }
+            ]
+        }
+    ]
+}
